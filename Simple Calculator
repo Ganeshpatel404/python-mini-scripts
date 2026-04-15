@@ -1,0 +1,7 @@
+# calculator.py
+a = 10
+b = 5
+print(f"Add: {a + b}")
+print(f"Sub: {a - b}")
+print(f"Mul: {a * b}")
+print(f"Div: {a / b}")
