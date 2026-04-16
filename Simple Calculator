@@ -1,5 +1,5 @@
 # calculator.py
-a = 10
+a = 10 
 b = 5
 print(f"Add: {a + b}")
 print(f"Sub: {a - b}")
