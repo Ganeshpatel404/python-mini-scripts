@@ -1,0 +1,4 @@
+# fruits.py
+fruits = ["Apple", "Banana", "Mango"]
+for fruit in fruits:
+    print(f"I love {fruit} 🍎")
