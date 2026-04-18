@@ -1,0 +1,8 @@
+# quote.py
+import random
+quotes = [
+    "Keep coding! ",
+    "Never give up! ",
+    "Learn daily! "
+]
+print(random.choice(quotes))
