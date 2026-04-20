@@ -1,0 +1,3 @@
+# reverse.py
+text = "Ganesh"
+print(f"Reversed: {text[::-1]}")
