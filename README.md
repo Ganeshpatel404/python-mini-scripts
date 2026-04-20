@@ -8,7 +8,7 @@
 
 👨‍💻 About This Repo
 
-This is my 10 Day Python Mini Scripts Challenge!
+This is my 10 Day Python Mini Scripts Challenge! 
 Every day I put one simple Python script to practice. 🚀
 
 
