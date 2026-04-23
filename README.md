@@ -1,6 +1,6 @@
  python-mini-scripts
 
- 🐍 Python Mini Scripts — 10 Day Challenge
+ 🐍 Python Mini Scripts 10 Day Challenge
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
