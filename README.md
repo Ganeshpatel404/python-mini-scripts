@@ -1,4 +1,4 @@
- python-mini-scripts
+ simple python challange 
 
  🐍 Python Mini Scripts 10 Day Challenge
 
